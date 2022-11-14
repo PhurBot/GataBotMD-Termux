@@ -6,7 +6,7 @@ import fs from 'fs'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰ 
 global.owner = [
-  ['15067195424', 𝖹𝖸𝖳𝗘', true],
+  ['15067195424 ' 𝖹𝖸𝖳𝗘', true],
   ['59172579750 ' 𝖹𝖸𝖳𝗘', true],
 
 
