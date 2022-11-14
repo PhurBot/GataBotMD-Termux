@@ -6,15 +6,10 @@ import fs from 'fs'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰ 
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-  ['50498965677', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
-  ['51993042301', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
-  ['593959425714'],
-  ['50495086382'],
-  ['584166662765'],
-  ['584163647116'],
-  ['593968585383'] 
-]
+  ['15067195424', 𝖹𝖸𝖳𝗘', true],
+  ['59172579750 ' 𝖹𝖸𝖳𝗘', true],
+
+
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
@@ -88,8 +83,8 @@ global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '🐈 𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '𝗣𝗛𝗨𝗥 𝗕𝗢𝗧'
+global.author = 'pírate.'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -99,13 +94,13 @@ global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 global.vs = '1.3.3'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = '𝗣𝗛𝗨𝗥 𝗕𝗢𝗧'
 global.gatabot = gt
 
 global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
 global.youtube = yt
 
-global.ig = 'https://www.instagram.com/gata_dios'
+global.ig = 'https://instagram.com/pluviophylez?igshid=YmMyMTA2M2Y='
 global.gatadiosig = ig
 
 global.md = 'https://github.com/GataNina-Li/GataBot-MD'
@@ -137,25 +132,25 @@ global.donar = paypal
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
 
-global.rg = '╰⊱✅⊱ *𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊 | 𝙍𝙀𝙎𝙐𝙇𝙏* ⊱✅⊱╮\n\n'
+global.rg = '╰ ✅ *𝙍𝙀𝙎𝙐𝙇𝙏* ✅ ╮\n\n'
 global.resultado = rg
 
-global.ag = '╰⊱⚠️⊱ *𝘼𝘿𝙑𝙀𝙍𝙏𝙀𝙉𝘾𝙄𝘼 | 𝙒𝘼𝙍𝙉𝙄𝙉𝙂* ⊱⚠️⊱╮\n\n'
+global.ag = '╰ ⚠️ *𝙒𝘼𝙍𝙉𝙄𝙉𝙂* ⚠️ ╮\n\n'
 global.advertencia = ag
 
-global.iig = '╰⊱❕⊱ *𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝘾𝙄𝙊́𝙉 | 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉* ⊱⊱╮\n\n'
+global.iig = '╰❕ *𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉* ❕╮\n\n'
 global.informacion = iig
 
-global.fg = '╰⊱❌⊱ *𝙁𝘼𝙇𝙇𝙊́ | 𝙀𝙍𝙍𝙊𝙍* ⊱❌⊱╮\n\n'
+global.fg = '╰ ❌ *𝙀𝙍𝙍𝙊𝙍* ❌ ╮\n\n'
 global.fallo = fg
 
-global.mg = '╰⊱❗️⊱ *𝙇𝙊 𝙐𝙎𝙊́ 𝙈𝘼𝙇 | 𝙐𝙎𝙀𝘿 𝙄𝙏 𝙒𝙍𝙊𝙉𝙂* ⊱❗️⊱╮\n\n'
+global.mg = '╰ ❗ *𝙐𝙎𝙀𝘿 𝙄𝙏 𝙒𝙍𝙊𝙉𝙂* ❗️╮\n\n'
 global.mal = mg
 
-global.eeg = '╰⊱📩⊱ *𝙍𝙀𝙋𝙊𝙍𝙏𝙀 | 𝙍𝙀𝙋𝙊𝙍𝙏* ⊱📩⊱╮\n\n'
+global.eeg = '╰ 📩 *𝙍𝙀𝙋𝙊𝙍𝙏*  📩 ╮\n\n'
 global.envio = eeg
 
-global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎𝙎* ⊱💚⊱╮\n\n'
+global.eg = '╰ ✅ *𝙎𝙐𝘾𝘾𝙀𝙎𝙎* ✅ ╮\n\n'
 global.exito = eg
 
 //𝙀𝙅𝙀𝙈𝙋𝙇𝙊 | 𝙀𝙓𝘼𝙈𝙋𝙇𝙀
@@ -164,12 +159,12 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
-global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
-global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
-global.waitttt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*'
+global.wm = '𝙋𝙃𝙐𝙍 𝘽𝙊𝙏 : pírate.'
+global.igfg = '𝖹-𝙕𝙔𝙏𝙀'
+global.wait = '*⌛ _Charging..._ ▬▭▭▭▭▭▭*'
+global.waitt = '*⌛ _Charging..._ ▬▬▭▭▭*'
+global.waittt = '*⌛ _Charging..._ ▬▬▬▬▭▭*'
+global.waitttt = '*⌛ _Charging..._ ▬▬▬▬▬▬▭*'
 global.nomorown = '593993684821'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
@@ -215,22 +210,34 @@ global.flaaa = [
 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text=',
 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text=']
 
-global.cmenut = '❖––––––『'
-global.cmenub = '┊✦ '
-global.cmenuf = '╰━═┅═━––––––๑\n'
-global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     '
- 
-global.dmenut = '*❖─┅──┅〈*'
-global.dmenub = '*┊»*'
-global.dmenub2 = '*┊*'
-global.dmenuf = '*╰┅────────┅✦*'
+global.cmenut = ㅤ
+global.cmenub = ㅤhi! ${username}
+
+
+global.cmenuf = –––––––––––––––––
+global.cmenua = ㅤ
+
+global.cmenub = •ㅤ *EXP ${exp}*
+global.dmenut = •ㅤ *LEVEL : ${level}*
+global.dmenub = •ㅤ *ROL :* ${role}
+global.dmenub2 = •ㅤ *PHURCOINS : $ ${money}*
+  
+global.dmenuf = ㅤㅤㅤㅤㅤㅤ. . .
+
+global.dmenub = •ㅤ *DATE*
+global.dmenub = –  *${week}, ${date}*
+global.dmenuf = •ㅤ *USERS : ${Object.keys(global.db.data.users).length}* 
+  
+global.dmenub = –––––––––––––––––
+
+global. dmenub = ㅤㅤ ㅤㅤㅤㅤ𝗣𝗛𝗨𝗥𝖹𝖸𝖳Σ 𝗕𝗢𝗧
 global.htjava = '⫹⫺'
 
-global.htki = '*⭑•̩̩͙⊱•••• ☪*'
-global.htka = '*☪ ••••̩̩͙⊰•⭑*'
+global.htki = 
+global.htka = 
 
-global.comienzo = '• • ◕◕════'
-global.fin = '════◕◕ • •'
+global.comienzo = . . . .
+global.fin = . . . .
 
 global.botdate = `⫹⫺ Date :  ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}` //Asia/Jakarta
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('America/Los_Angeles').format('HH:mm:ss')}`//America/Los_Angeles
@@ -259,28 +266,28 @@ global.rpg = {
   emoticon(string) {
     string = string.toLowerCase()
     let emot = {
-      level: '🧬 Nivel : Level',
-      limit: '💎 Diamante : Diamond',
-      exp: '⚡ Experiencia : Exp',
-      bank: '🏦 Banco : Bank',
-      diamond: '💎+ Diamante+ : Diamond+',
-      health: '❤️ Salud : Health',
-      kyubi: '🌀 Magia : Magic',
+      level: '🧬 Level',
+      limit: '💎 Diamond',
+      exp: '⚡ Exp',
+      bank: '🏦 Bank',
+      diamond: '💎+ Diamond+',
+      health: '❤️ Health',
+      kyubi: '🌀 Magic',
       joincount: '🪙 Token',
-      emerald: '💚 Esmeralda : Emerald',
-      stamina: '✨ Energía : Energy',
-      role: '💪 Rango | Role',
+      emerald: '💚 Emerald',
+      stamina: '✨ Energy',
+      role: '💪 Role',
       premium: '🎟️ Premium',
-      pointxp: '📧 Puntos Exp : Point Xp',
-      gold: '👑 Oro : Gold',
+      pointxp: '📧 Point Xp',
+      gold: '👑 Gold',
       
-      trash: '🗑 Basura : Trash',
-      crystal: '🔮 Cristal : Crystal',
-      intelligence: '🧠 Inteligencia : Intelligence',
-      string: '🕸️ Cuerda : Cuerda',
-      keygold: '🔑 Llave de Oro : Key Gold',
-      keyiron: '🗝️ Llave de Hierro : Key Iron',
-      emas: '🪅 Piñata : Doll',
+      trash: '🗑 Trash',
+      crystal: '🔮 Crystal',
+      intelligence: '🧠 Intelligence',
+      string: '🕸️ Cuerda',
+      keygold: '🔑 Key Gold',
+      keyiron: '🗝️ Key Iron',
+      emas: '🪅 Doll',
       fishingrod: '🎣 Caña de Pescar : Fishing Rod',
       gems: '🍀 Gemas : Gemas',
       magicwand: '⚕️ Varita Mágica : Magic Wand',
